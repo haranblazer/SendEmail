@@ -5,9 +5,9 @@ using System.Net.Mail;
 using System.Text.RegularExpressions;
 using System.Web;
 
-namespace UBH.AccountValuationManagement.BLL
+namespace SendEmailApp
 {
-    public class EmailBLL
+    public class SendEmail
     {
         /// <summary>
         /// This helper class sends an email message using the System.Net.Mail namespace
